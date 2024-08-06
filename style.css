@@ -555,7 +555,19 @@ background-color:brown;
     .content-banner{
         width: 90%;
         margin-top: 4em;
+
     }
+    .menuVertical{
+        color:black;
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-top: 1em;
+        margin-left: 1em;
+        margin-bottom: 1em;
+        text-decoration: none;
+    }
+    .menuVertical:hover{
+        color: #fff;   }
 
 }
 
